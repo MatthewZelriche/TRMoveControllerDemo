@@ -1,0 +1,3 @@
+[submodule "addons/TRMoveController"]
+	path = addons/TRMoveController
+	url = https://github.com/MatthewZelriche/TRMoveController.git
