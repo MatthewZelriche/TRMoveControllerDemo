@@ -1,0 +1,14 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+uid="uid://c7jnpegswctym"
+path="res://.godot/imported/ArenaTest.map-019aa248adba54453a5ac18b42cd90f3.tres"
+
+[deps]
+
+source_file="res://scenes/mapdata/ArenaTest.map"
+dest_files=["res://.godot/imported/ArenaTest.map-019aa248adba54453a5ac18b42cd90f3.tres"]
+
+[params]
+
