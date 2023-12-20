@@ -485,4 +485,4 @@ shape = SubResource("ConvexPolygonShape3D_hr724")
 shape = SubResource("ConvexPolygonShape3D_bn81n")
 
 [node name="TRMoveController" parent="." instance=ExtResource("6_n5bfj")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.33206, 9.11216, 26.7275)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.8792, 4.61019, 9.92758)
