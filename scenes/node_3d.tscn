@@ -558,20 +558,20 @@ shape = SubResource("ConvexPolygonShape3D_f3ess")
 shape = SubResource("ConvexPolygonShape3D_ggi5b")
 
 [node name="TRMoveController" parent="." instance=ExtResource("6_sp210")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.79275, 4.3009, 11.3654)
-
-[node name="WaterZone" parent="." instance=ExtResource("7_gf0yl")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -19.9925, -3.64915, 36.0777)
-size = Vector3(256, 256, 256)
-
-[node name="WaterZone3" parent="." instance=ExtResource("7_gf0yl")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -15.954, -3.53227, 47.0017)
-size = Vector3(512, 256, 64)
-
-[node name="WaterZone4" parent="." instance=ExtResource("7_gf0yl")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -15.954, -3.51824, 42.9981)
-size = Vector3(512, 256, 64)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.79275, 4.3009, 9.51389)
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, -0.775033, 0.631921, 0, -0.631921, -0.775033, 0, 21.4538, 0)
 shadow_enabled = true
+
+[node name="WaterZone" parent="." instance=ExtResource("7_gf0yl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -15.9767, -0.545497, 42.997)
+size = Vector3(512, 64, 64)
+
+[node name="WaterZone3" parent="." instance=ExtResource("7_gf0yl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -15.9767, -3.49852, 46.9507)
+size = Vector3(512, 256, 64)
+
+[node name="WaterZone2" parent="." instance=ExtResource("7_gf0yl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -20.0126, -4.19781, 36.0065)
+size = Vector3(256, 300, 256)
