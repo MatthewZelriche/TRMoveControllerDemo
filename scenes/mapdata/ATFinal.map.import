@@ -1,0 +1,14 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+uid="uid://br5lt86b6oct3"
+path="res://.godot/imported/ATFinal.map-22da318cf358dc55ab8df11230cee190.tres"
+
+[deps]
+
+source_file="res://scenes/mapdata/ATFinal.map"
+dest_files=["res://.godot/imported/ATFinal.map-22da318cf358dc55ab8df11230cee190.tres"]
+
+[params]
+
